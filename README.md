@@ -1,2 +1,3 @@
-learning git
-Copyright 2023
+------------------
+"About the page
+--------------------
